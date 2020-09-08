@@ -15,6 +15,6 @@ function Fibonacci($n){
 } 
 
 // Driver Code 
-$n = $_GET['number']
- Fibonacci($n); 
+$n = $_GET['number'];
+Fibonacci($n); 
 ?> 
